@@ -13,6 +13,3 @@ Documentation for [StringNets](https://github.com/xiaoyu-dong/StringNets.jl).
 Modules = [StringNets]
 ```
 
-```@docs
-func(x)
-```
