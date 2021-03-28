@@ -20,5 +20,4 @@ makedocs(;
 
 deploydocs(;
     repo="github.com/xiaoyu-dong/StringNets.jl",
-    devbranch="gh-pages",
 )

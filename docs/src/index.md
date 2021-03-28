@@ -12,3 +12,7 @@ Documentation for [StringNets](https://github.com/xiaoyu-dong/StringNets.jl).
 ```@autodocs
 Modules = [StringNets]
 ```
+
+```@docs
+func(x)
+```
